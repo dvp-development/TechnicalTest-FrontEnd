@@ -20,4 +20,4 @@ di dalam repository ini. API akan bekerja di url **http://localhost:3000**.
 
 # Mekanisme Pengumpulan
 
-Untuk pengerjaan dashboard tersebut, anda perlu membuat repository di github pribadi dan atur repository tersebut ke dalam mode **private** dan invite akun github **bayu-aditya** sebagai kolaborator di repository github tersebut.
+Untuk pengerjaan dashboard tersebut, anda perlu membuat repository di github pribadi dan atur repository tersebut ke dalam mode **private** dan invite akun github **bayu-aditya** dan **tamarazu** sebagai kolaborator di repository github tersebut.
