@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "title": "Ini Merupakan Contoh Title Artikel pertama edited",
+      "image_cover_url": "https://dealio-assets.sgp1.cdn.digitaloceanspaces.com/production/blog/image_cover/57794b72-45db-4afd-8615-96769af81d02.jpg",
+      "meta": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "tags": [
+        "mobil",
+        "motor",
+        "sepeda"
+      ],
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "Your Name",
+    "email": "testusername@gmail.com",
+    "photo": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  }
+}
